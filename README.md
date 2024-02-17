@@ -1,6 +1,4 @@
-### Project-Code: eminent-art-8078
-
-<h1><a href="https://trendify-omega.vercel.app/" >TRENDIFY</a></h1>
+<h1><a href="#" >TRENDIFY ( ShopClues Clone )</a></h1>
 <!-- <a href="https://erin-dizzy-clam.cyclic.app/" >Backened Deployed Link</a> -->
 
 <!-- # TRENDIFY -->
